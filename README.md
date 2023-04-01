@@ -1,4 +1,4 @@
 # PDF Crawler 
 Automatic PDF Crawler 
 
-> Can Download <*.PDF> Files in A Page
+> Can Download <*.PDF> Files in a Page
